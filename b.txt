@@ -1,6 +1,13 @@
 Testando atualização do
+<<<<<<< Updated upstream
 atualizaçãocccc
 ccc
 cccc
 cccc
 cccc
+=======
+atualização
+dfhjahdf
+aksjdfkajsdf
+afoiajsdkfjaksdf
+>>>>>>> Stashed changes
